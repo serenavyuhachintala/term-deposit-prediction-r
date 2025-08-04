@@ -71,7 +71,7 @@ Forecasts reveal optimal times for launching campaigns.
 ## Business Recommendations
 
 - Focus on **customers under 30** and **over 60**
-- Prioritize accounts with **€1,000–€3,000 balances**
+- Prioritize accounts with **£1,000–£3,000 balances**
 - Cap campaign calls at 5 attempts to avoid drop-off
 - Target students and retirees during **Q2–Q4**
 - Position term deposits as mid- or year-end investment strategies
